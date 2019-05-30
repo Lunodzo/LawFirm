@@ -1,0 +1,35 @@
+SMAP
+register_005fattorney_jsp.java
+JSP
+*S JSP
+*F
++ 0 register_attorney.jsp
+register_attorney.jsp
++ 1 connection.jsp
+connection.jsp
++ 2 header.jsp
+header.jsp
++ 3 sidebar.jsp
+sidebar.jsp
++ 4 action_box.jsp
+action_box.jsp
++ 5 footer.jsp
+footer.jsp
+*L
+1,18:64
+1#1:81
+6,15:82
+20,2:97
+18#0,3:99
+1#2,39:101
+20#0,5:140
+1#3,11:144
+24#0,9:155
+1#4,11:164
+32#0,109:175
+1#5,2:283
+3:285,10
+3:330,6
+3,3:297
+140#0,13:300
+*E

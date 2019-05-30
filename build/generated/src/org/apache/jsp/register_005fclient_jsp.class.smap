@@ -1,0 +1,35 @@
+SMAP
+register_005fclient_jsp.java
+JSP
+*S JSP
+*F
++ 0 register_client.jsp
+register_client.jsp
++ 1 header.jsp
+header.jsp
++ 2 sidebar.jsp
+sidebar.jsp
++ 3 action_box.jsp
+action_box.jsp
++ 4 footer.jsp
+footer.jsp
+*L
+1,27:66
+28,7:94
+34,3:101
+1#1,39:103
+36#0,5:142
+1#2,11:146
+40#0,7:157
+1#3,11:164
+46#0,154:175
+200,3:329,3
+203,8:338
+211,6:347
+216,10:353
+1#4,2:362
+3:364,10
+3:421,6
+3,3:376
+225#0,25:379
+*E
